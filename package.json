@@ -1,0 +1,19 @@
+{
+  "name": "discover-weekly-sync",
+  "version": "1.0.0",
+  "description": "Save your discover weekly into an archive playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmundDong/discover-weekly-sync.git"
+  },
+  "author": "Edmund Dong",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/EdmundDong/discover-weekly-sync/issues"
+  },
+  "homepage": "https://github.com/EdmundDong/discover-weekly-sync#readme"
+}
